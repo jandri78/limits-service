@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "limits-serrver.minimun",
+    "type": "java.lang.String",
+    "description": "A description for 'limits-serrver.minimun'"
+  },
+  {
+    "name": "limits-serrver.maximun",
+    "type": "java.lang.String",
+    "description": "A description for 'limits-serrver.maximun'"
+  },
+  {
+    "name": "limits-service.maximum",
+    "type": "java.lang.String",
+    "description": "A description for 'limits-service.maximum'"
+  },
+  {
+    "name": "limits-service.minimum",
+    "type": "java.lang.String",
+    "description": "A description for 'limits-service.minimum'"
+  }
+]}
